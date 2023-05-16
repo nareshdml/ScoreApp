@@ -44,7 +44,7 @@ class _ScoreHomeState extends State<ScoreHome> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.deepPurpleAccent,
         centerTitle: true,
         title: Text('Score Changer'),
       ),
